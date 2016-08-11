@@ -13,7 +13,7 @@ BP repository
 
 - 项目名称：时光珠链（暂定）
 
-- 团队项目协作仓库[地址](https://github.com/GardenWPY/Time-Recorder/edit/master/README.md)
+- 团队项目协作仓库[地址](https://github.com/GardenWPY/Time-Recorder)
 
 - 项目概述：创建 人、事、物作为节点，何节点可相互串联。用来整理个人生活。就像“记账APP”整理收支、“云笔记”整理资料一样，用二维可见的节点代替三维（空间）整理。
 
